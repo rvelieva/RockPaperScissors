@@ -12,10 +12,12 @@ Times when you win are:
 - When you choose rock and computer choose scissors;
 - When you choose scissors and computer choose paper;
 - When you choose paper and computer choose rock;
+  
 Times when you lose:
 - When you choose rock and computer choose paper;
 - When you choose paper and computer choose scissors;
 - When you choose scissors and computer choose rock;
+  
 Times when is draw:
 - When you choose rock and computer choose rock;
 - When you choose scissors and computer choose scissors;
