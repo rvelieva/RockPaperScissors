@@ -3,11 +3,17 @@ This is simple Rock Paper Scissors game. Your opponent is the computer, you can 
 
 # Instructions
 Firstly in program is appeared "Choose language" there you have to choose between the two languages. You choose language when you write it.
+
 ![image](https://github.com/rvelieva/RockPaperScissors/assets/156831546/b817939e-4fd6-46f1-9a0b-740f331ab378)
+
 Then you have to choose between rock, paper and scissors. You choose between them when you write the or or just a letter:
+
 ![image](https://github.com/rvelieva/RockPaperScissors/assets/156831546/286834fa-2a8f-42f3-bacf-7e9d8c199bce)
 ![image](https://github.com/rvelieva/RockPaperScissors/assets/156831546/42cb6c58-77a8-47bd-879a-a2e1a29dff9f)
+
+
 After that the result of the game is written and it is asking do you want to play again you can answer with "yes" or "no". If you choose "yes" you play again, if you choose "no" the game stops.
+
 ![image](https://github.com/rvelieva/RockPaperScissors/assets/156831546/bcaed46f-526c-4985-bd5d-0f8dc1a92aba) ![image](https://github.com/rvelieva/RockPaperScissors/assets/156831546/dfbbc70e-e09a-4824-ae07-e1a4627723c7)
 
 
@@ -31,7 +37,8 @@ Times when is draw:
 ![image](https://github.com/rvelieva/RockPaperScissors/assets/156831546/873e46d9-e52e-47b0-b6ea-2deb37f473ce)
 ![image](https://github.com/rvelieva/RockPaperScissors/assets/156831546/973768f7-0d7f-4410-b108-1de793dd86d8)
 ![image](https://github.com/rvelieva/RockPaperScissors/assets/156831546/4c99819f-7817-490d-ad5b-09d50b45ecaf)
-.[Source Code](RockPaperScissors.cs)
+
+[Source Code](RockPaperScissors.cs)
 
 
 # Игра камък ножиица хартия
