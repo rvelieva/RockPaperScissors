@@ -5,7 +5,7 @@ This is simple Rock Paper Scissors game. Your opponent is the computer, you can 
 Firstly in program is appeared "Choose language" there you have to choose between the two languages. You choose language when you write it.
 Then you have to choose between rock, paper and scissors. You choose between them when you write the wor or just a letter:
 For example:
-After that the result of the game is written and it is asking do you wanat to play you can answer with "yes" or "no". If you choose "yes" you play again, if you choose "no" the game stops.
+After that the result of the game is written and it is asking do you want to play again you can answer with "yes" or "no". If you choose "yes" you play again, if you choose "no" the game stops.
 
 # Rules
 Times when you win are:
@@ -23,4 +23,31 @@ Times when is draw:
 - When you choose scissors and computer choose scissors;
 - When you choose paper and computer choose paper;
 
-Input and Output
+# Input and Output
+
+# Игра камък ножиица хартия
+Това е проста игра камък ножиица хартия. Вашият опонент е компютърът, имате възможност за неограничен брой игри.
+
+# Инструкции
+Първо в програмата се появява "Избор на език", там трябва да изберете между двата езика. Вие избирате език, когато го пишете.
+След това трябва да изберете между камък, хартия и ножица. Вие избирате между тях, когато пишете думата или просто буквата:
+Например:
+След това се изписва резултатът от играта и ви пита искате ли да играете отново, можете да отговорите с "да" или "не". Ако изберете "да", играете отново, ако изберете "не", играта спира.
+
+# Правила
+Времената, в които печелите са:
+- Когато изберете камък и компютър изберете ножици;
+- Когато избирате ножици и компютър, изберете хартия;
+- Когато избирате хартия и компютър изберете камък;
+  
+Времена, когато губите:
+- Когато изберете рок и компютър изберете хартия;
+- Когато избирате хартия и компютър изберете ножици;
+- Когато избирате ножици и компютър, изберете камък;
+  
+Часове, когато се тегли:
+- Когато избирате рок и компютърът избира рок;
+- Когато избирате ножици и компютър изберете ножици;
+- Когато избирате хартия и компютър изберете хартия;
+
+  # Вход и изход
